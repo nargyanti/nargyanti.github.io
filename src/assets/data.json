@@ -1,0 +1,203 @@
+{
+    "profile": {
+        "name": "Nabilah Argyanti",
+        "bio": "As an Informatics Engineering graduate, I have a strong professional interest in developing software systems that deliver tangible impacts. I specialize in designing backend architectures, mapping complex business processes, and translating abstract user requirements into well-structured applications, primarily utilizing Laravel and Vue.js. Whether developing Enterprise Resource Planning (ERP) modules or public service portals, my primary objective is to analyze human behavioral patterns to build technology that is both highly functional and genuinely beneficial for end-users.",
+        "resume_url": "/CV - Nabilah Argyanti.pdf",
+        "email": "nargyanti@gmail.com",
+        "image": "/images/profile-picture.webp",
+        "accounts": {
+            "github": "https://github.com/nargyanti",
+            "linkedin": "https://www.linkedin.com/in/nargyanti/",
+            "instagram": "https://www.instagram.com/nargyanti"
+        }
+    },
+    "education": {
+        "institution": "Politeknik Negeri Malang",
+        "icon": "material-symbols:school",
+        "degree": "Applied Bachelor of Informatics Engineering (2019-2023)",
+        "thesis": "Thesis: Recipes Recommendation System Based on Ingredients Availability and User Preferences",
+        "subjects": [
+            "Advanced Web Programming",
+            "Cloud Computing",
+            "Advanced Database",
+            "Big Data"
+        ]
+    },
+    "technical_skills": [
+        {
+            "icon": "material-symbols:web",
+            "category": "Web Development",
+            "description": "I specialize in translating complex business logic into efficient and scalable web applications. Furthermore, I am highly capable of structuring disorganized data interactions into streamlined workflows, thereby ensuring that my developed systems effectively resolve practical operational bottlenecks.",
+            "skills": [
+                "Laravel",
+                "Vue.js",
+                "CodeIgniter",
+                "Tailwind CSS",
+                "Django",
+                "WordPress"
+            ]
+        },
+        {
+            "icon": "mdi:database-cog",
+            "category": "Data Science",
+            "description": "I possess a solid capability in processing and analyzing data using fundamental data science techniques. This enables me to extract meaningful insights, model human decision-making processes, and support the implementation of robust data-driven solutions.",
+            "skills": [
+                "Python",
+                "Pandas",
+                "Matplotlib",
+                "Tensorflow"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "icon": "ic:sharp-home-work",
+            "title": "IT Staff at PT Semangat Bersama Entrepreneurship",
+            "period": "July 2024 - now",
+            "jobdesk": [
+                "Translated intricate agricultural workflows into structured ERP modules, effectively bridging the gap between abstract user requirements and technical implementations.",
+                "Architected a comprehensive Laravel-based system to digitalize complex seed production cycles, which accurately manages multi-stage inventory transitions.",
+                "Streamlined manual data entry processes, thereby minimizing human error and ensuring optimal system availability for operational staff."
+            ]
+        },
+        {
+            "icon": "ic:sharp-home-work",
+            "title": "Programmer at UPA TIK Politeknik Negeri Malang",
+            "period": "September 2023 - July 2024",
+            "jobdesk": [
+                "Standardized internal development workflows by engineering a Laravel starter kit, which significantly reduced the setup time required for customized institutional systems.",
+                "Digitalized the public information access (PPID) portal to mitigate administrative bottlenecks and promote institutional transparency.",
+                "Revamped the institutional website's profile structure to enhance the information architecture and overall user navigation experience."
+            ]
+        },
+        {
+            "icon": "ic:sharp-home-work",
+            "title": "Backend Developer at PT Adma Digital Solusi",
+            "period": "August 2022 - December 2022",
+            "jobdesk": [
+                "Engineered a logic-driven recommendation engine utilizing Django to alleviate user decision fatigue by algorithmically matching available ingredients to viable recipes.",
+                "Automated the collection of raw data for food ingredients through the implementation of custom Python web scraping scripts."
+            ]
+        },
+        {
+            "icon": "ic:sharp-home-work",
+            "title": "Web Developer at Awesome Language Stability",
+            "period": "September 2021 - November 2021",
+            "jobdesk": [
+                "Designed and developed a comprehensive TOEFL prediction platform using the CodeIgniter framework to provide users with immediate and accurate scoring.",
+                "Collaborated extensively with the project team to integrate essential services, thereby ensuring a highly reliable and seamless testing experience."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "MTani Information System",
+            "description": "An end-to-end ERP module designed to digitalize complex agricultural workflows, systematically streamlining the tracking of seed production stages from raw harvest to finished goods.",
+            "image": "/images/projects/si-mtani.webp",
+            "tools": {
+                "laravel": "https://laravel.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "Bromo By Cahaya",
+            "description": "A conversion-focused landing page for a Bromo photography and travel service. This platform streamlines client bookings by seamlessly showcasing a visual portfolio alongside clearly structured pricing tiers.",
+            "image": "/images/projects/bromobycahaya.webp",
+            "tools": {
+                "carrd": "https://carrd.co/"
+            },
+            "url": "https://bromobycahaya.carrd.co/"
+        },
+        {
+            "title": "Politeknik Negeri Malang's Official Website",
+            "description": "An informative platform providing comprehensive details regarding academic programs, campus activities, and recent institutional news related to Politeknik Negeri Malang.",
+            "image": "/images/projects/polinema.webp",
+            "tools": {
+                "wordpress": "https://wordpress.org/",
+                "elementor": "https://elementor.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "Politeknik Negeri Malang's Department Website",
+            "description": "A dedicated departmental platform designed to provide thorough information concerning academic programs, student activities, and the latest departmental updates.",
+            "image": "/images/projects/department-polinema.webp",
+            "tools": {
+                "wordpress": "https://wordpress.org/",
+                "elementor": "https://elementor.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "PPID Politeknik Negeri Malang",
+            "description": "A transparent public information website that offers accessible and comprehensive data regarding institutional activities, official documents, and administrative procedures.",
+            "image": "/images/projects/ppid-polinema.webp",
+            "tools": {
+                "wordpress": "https://wordpress.org/",
+                "elementor": "https://elementor.com/"
+            },
+            "url": "https://ppid.polinema.ac.id/"
+        },
+        {
+            "title": "EasyCook",
+            "description": "An algorithm-driven application developed to resolve daily meal-planning constraints, offering highly accurate recipe recommendations based on real-time ingredient availability.",
+            "image": "/images/projects/easycook.webp",
+            "tools": {
+                "django": "https://www.djangoproject.com/",
+                "vuedotjs": "https://vuejs.org/"
+            },
+            "url": "https://gitlab.com/nargyanti/easycookapi"
+        },
+        {
+            "title": "E-Learning for Vocational High School",
+            "description": "An integrated e-learning platform that delivers a comprehensive educational experience for students and educators, facilitating online courses, interactive quizzes, and assignment management.",
+            "image": "/images/projects/e-learning.webp",
+            "tools": {
+                "laravel": "https://laravel.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "ANTI ManDec",
+            "description": "A monitoring system that accurately reports the arrival and departure schedules of maritime transportation at TPI Ngurah Rai.",
+            "image": "/images/projects/anti-mandec.webp",
+            "tools": {
+                "laravel": "https://laravel.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "Quarter Life Projects Mentoring System",
+            "description": "A centralized platform engineered to resolve scheduling bottlenecks by seamlessly matching and connecting mentees with suitable available mentors.",
+            "image": "/images/projects/mentoring-qlp.webp",
+            "tools": {
+                "laravel": "https://laravel.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": "https://github.com/nargyanti/mentoring-qlp"
+        },
+        {
+            "title": "ALS TOEFL Prediction",
+            "description": "An educational website that offers TOEFL prediction tests and immediately provides users with accurate score calculations upon completion.",
+            "image": "/images/projects/als-toefl-prediction.webp",
+            "tools": {
+                "codeigniter": "https://codeigniter.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": ""
+        },
+        {
+            "title": "Pap'a Catering",
+            "description": "A digitalized order management and financial tracking system for an orphanage's catering enterprise, effectively replacing disorganized manual ledgers with a structured digital platform.",
+            "image": "/images/projects/papa-catering.webp",
+            "tools": {
+                "laravel": "https://laravel.com/",
+                "bootstrap": "https://getbootstrap.com/"
+            },
+            "url": "https://github.com/nargyanti/papa-catering"
+        }
+    ]
+}
